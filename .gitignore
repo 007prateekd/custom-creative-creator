@@ -1,6 +1,9 @@
+# model checkpoints / weights
 *.pt
 *.pth
 *.dat
-*.pyc
 *.h5
+# python compiled files
+*.pyc
+# macOS files
 *.DS_Store
