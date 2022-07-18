@@ -1,0 +1,31 @@
+{
+    "Creative 1": {
+        "path": "creatives/creative1.jpg",
+        "path_textless": "creatives_textless/creative1.jpg",
+        "projection_opt": "restyle",
+        "n_iter": 1,
+        "center": [475, 210],
+        "dst_h2c": 180,
+        "rot_degrees": 19.0,
+        "recom_pos": [850, 500],
+        "recom_sf": 1.5 
+    },
+    "Creative 2": {
+        "path": "creatives/creative2.jpg",
+        "path_textless": "creatives_Textless/creative2.png",
+        "projection_opt": "restyle",
+        "n_iter": 1,
+        "center": [1310, 510],
+        "dst_h2c": 370,
+        "rot_degrees": 0.0,
+        "recom_pos": [350, 5],
+        "recom_sf": 4.0 
+    },
+
+    "Font 1": {
+        "path": "font_images/font1.png"
+    },  
+    "Font 2": {
+        "path": "font_images/font2.png"
+    }
+}
