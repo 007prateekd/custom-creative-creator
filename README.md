@@ -5,3 +5,6 @@
 This is a web application which takes in your picture, a text, a font style and a creative (both from a set of predefined options) and generates a new creative with the text in the creative replaced by your text and the face in it replaced by your face. Created using Streamlit.
 
 <img src=docs/teaser.png width=600>
+
+## Acknowledgements
+This code borrows from <a href="https://github.com/mchong6/JoJoGAN">JoJoGAN</a>, <a href="https://github.com/yuval-alaluf/restyle-encoder">ReStyle</a> and <a href="https://github.com/hologerry/AGIS-Net">AGIS-Net</a>. Some snippets from <a href="https://github.com/shaoanlu/face_toolbox_keras">Face-Toolbox-Keras</a>.
