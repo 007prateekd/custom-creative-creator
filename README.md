@@ -13,6 +13,21 @@ This is a web application which takes in your picture, a text, a font style and 
 - choosing a creative and combining the face and text stylization from above, it can generate a modified creative with the modified face added and modified text positioned, scaled and given direction according to the user.
 - the complete pipeline takes only ~25s per image. If using the same face style reference continously, the time reduces down to ~5s.
 
+## Examples
+
+- Face Stylization
+
+<img src=docs/face-creative.png height=150> <img src=docs/face-original.png height=150> <img src=docs/face-stylized.png height=150>
+
+- Text Stylization
+
+<img src=docs/text-creative.png height=60> <img src=docs/text-stylized.png height=60>
+
+- Combination
+
+<img src=docs/creative-old.png width=500>
+<img src=docs/creative-new.png width=500>
+
 ## Acknowledgements
 
 This code borrows from <a href="https://github.com/mchong6/JoJoGAN">JoJoGAN</a>, <a href="https://github.com/yuval-alaluf/restyle-encoder">ReStyle</a> and <a href="https://github.com/hologerry/AGIS-Net">AGIS-Net</a>. Some snippets from <a href="https://github.com/shaoanlu/face_toolbox_keras">Face-Toolbox-Keras</a>.
