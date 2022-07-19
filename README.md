@@ -15,18 +15,18 @@ This is a web application which takes in your picture, a text, a font style and 
 
 ## Examples
 
-- Face Stylization
+- Face Stylization:    
+  The following are the style reference, user's image and stylized image respectively.   
+  <img src=docs/face-creative.png height=150> <img src=docs/face-original.png height=150> <img src=docs/face-stylized.png height=150>
 
-<img src=docs/face-creative.png height=150> <img src=docs/face-original.png height=150> <img src=docs/face-stylized.png height=150>
+- Text Stylization:  
+  The following are the font image and the stylized text (for the input "RANDOM TEXT") respectively.   
+  <img src=docs/text-creative.png height=60> <img src=docs/text-stylized.png height=60>
 
-- Text Stylization
-
-<img src=docs/text-creative.png height=60> <img src=docs/text-stylized.png height=60>
-
-- Combination
-
-<img src=docs/creative-old.png width=500>
-<img src=docs/creative-new.png width=500>
+- Combination:   
+  The following are the original creative and modified creative respectively.
+  <img src=docs/creative-old.png width=500>
+  <img src=docs/creative-new.png width=500>
 
 ## Acknowledgements
 
