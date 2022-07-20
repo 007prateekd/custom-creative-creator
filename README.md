@@ -17,7 +17,7 @@ This is a web application which takes in your picture, a text, a font style and 
 
 - Face Stylization:    
   The following are the style reference, user's image and stylized image respectively.   
-  <img src=docs/face-creative.png height=150> <img src=docs/face-original.png height=150> <img src=docs/face-stylized.png height=150>
+  <img src=docs/face-creative.png height=178> <img src=docs/face-original.png height=178> <img src=docs/face-stylized.png height=178>
 
 - Text Stylization:  
   The following are the font image and the stylized text (for the input "RANDOM TEXT") respectively.   
